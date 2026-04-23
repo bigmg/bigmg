@@ -16,7 +16,8 @@
 <p>
 
   <img src="https://camo.githubusercontent.com/0229ec2574640e940948718c0eec1a30fcbbceefa18b6a64389f604ba2ff57a2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33332f4669676d612d6c6f676f2e7376672f33333070782d4669676d612d6c6f676f2e7376672e706e67" alt="Business Analyst GIF" width="30"> &nbsp;
-  <img src="https://dl.svgcdn.com/png/logos/notion-icon-800.png" alt="Business Analyst GIF" width="45">
+  <img src="https://dl.svgcdn.com/png/logos/microsoft-power-bi-800.png" alt="Business Analyst GIF" width="40">
+    <img src="https://dl.svgcdn.com/png/logos/adobe-premiere-800.png" alt="Business Analyst GIF" width="45">
   <img src="https://dl.svgcdn.com/png/logos/adobe-photoshop-800.png" alt="Business Analyst GIF" width="45">
   <img src="https://dl.svgcdn.com/png/logos/adobe-illustrator-800.png" alt="Business Analyst GIF" width="45">
   <img src="https://dl.svgcdn.com/png/logos/adobe-premiere-800.png" alt="Business Analyst GIF" width="45">
