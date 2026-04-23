@@ -1,17 +1,18 @@
 # Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgxeTB2b242dzBtcTZnd2Nub2F4OGxza3BnNWw5d2ZiYXl2MDBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXorj2ckjBJ6ymLMak/giphy.gif" width="300"/> 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgxeTB2b242dzBtcTZnd2Nub2F4OGxza3BnNWw5d2ZiYXl2MDBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXorj2ckjBJ6ymLMak/giphy.gif" alt="Business Analyst GIF" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <h2>Bigm.g 🚀</h2>
+      <p>As a Lead Business Analyst, I specialize in driving complex technology projects by acting as a crucial bridge between business goals and technical development teams. My expertise lies in translating challenging business needs into clear, actionable technical requirements to deliver digital solutions that provide maximum value.</p>
+      <p><strong>Lead Business Analyst</strong> specializing in driving high-impact technology projects that deliver measurable business value.</p>
+    </td>
+  </tr>
+</table>
 
-
-As a Lead Business Analyst, I specialize in driving complex technology projects by acting as a crucial bridge between business goals and technical development teams. My expertise lies in translating challenging business needs into clear, actionable technical requirements to deliver digital solutions that provide maximum value.
-
-## About Me
-
-My foundation in technology comes from a Bachelor's degree in Software Engineering from Prince of Songkla University, Phuket Campus. This background provides me with a deep technical understanding, enabling me to effectively communicate with and guide engineering teams while ensuring alignment with strategic business objectives.
-
-In my capacity as a team lead, I am responsible for product analysis and strategy, working closely with stakeholders at all levels to ensure successful project delivery.
 
 ## Core Competencies
 
