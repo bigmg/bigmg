@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 As a Lead Business Analyst, I specialize in driving complex technology projects by acting as a crucial bridge between business goals and technical development teams. My expertise lies in translating challenging business needs into clear, actionable technical requirements to deliver digital solutions that provide maximum value.
 
 ## About Me
